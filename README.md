@@ -31,23 +31,7 @@ sudo apt-get install apache2
 # Installing  Mosquitto Web Socket
 
 
-Conversation opened. 1 read message.
 
-Skip to content
-Using Gmail with screen readers
-
-9 of 2,372
-(no subject)
-Inbox
-x
-
-Kutty Selva
-Attachments
-2:30 AM (6 hours ago)
-to me, naveen333prasath
-
-
-3 Attachments
 
 Compile MQTT Mosquitto for web sockets
 The message broker we are using is called Mosquito and in order to be able to send messages from a web browser we need to re-compile Mosquito to include Websockets. This is done as follows:
@@ -118,23 +102,6 @@ Displaying requirements.txt.
 # Installing Web Server
 
 
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-
-9 of 2,372
-(no subject)
-Inbox
-x
-
-Kutty Selva
-Attachments
-2:30 AM (6 hours ago)
-to me, naveen333prasath
-
-
-3 Attachments
 
 Installing web server
 
